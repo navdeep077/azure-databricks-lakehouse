@@ -1,0 +1,16 @@
+order_id,order_date,customer,region,product,quantity,unit_price
+1001,2026-01-05,Aria Health,WA,Blood Pressure Monitor,3,89.50
+1002,2026-01-07,Aria Health,WA,Blood Pressure Monitor,3,89.50
+1003,05/01/2026,Perth Care,WA,Thermometer,10,12.00
+1004,2026-01-12,Coast Clinic,,Pulse Oximeter,4,45.00
+1005,2026-02-02,Aria Health,WA,Thermometer,,12.00
+1006,2026-02-14,Northside Medical,NSW,Blood Pressure Monitor,2,89.50
+1007,2026-02-14,Northside Medical,NSW,Blood Pressure Monitor,2,89.50
+1008,2026-02-20,Coast Clinic,WA,Pulse Oximeter,6,45.00
+1009,2026-03-03,Perth Care,WA,Thermometer,12,12.00
+1010,2026-03-15,Aria Health,WA,Pulse Oximeter,5,45.00
+1011,2026-03-15,Aria Health,wa,Pulse Oximeter,5,45.00
+1012,2026-03-28,Northside Medical,NSW,Thermometer,20,12.00
+1013,2026-04-02,Coast Clinic,WA,Blood Pressure Monitor,1,89.50
+1014,2026-04-09,Perth Care,WA,Pulse Oximeter,3,45.00
+1015,,Aria Health,WA,Thermometer,8,12.00
