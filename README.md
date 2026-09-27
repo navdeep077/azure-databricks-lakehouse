@@ -29,5 +29,19 @@ on Azure the tables would sit in ADLS Gen2 with no change to the notebook logic.
 2. Run all cells top to bottom.
 3. Query `gold.monthly_revenue_by_region`.
 
+## Outputs
+
+Gold table, revenue by month and region:
+![Gold output](screenshots/gold_output.png)
+
+Silver quarantine, rows failing data-quality rules with reason code:
+![Quarantine](screenshots/silver_quarantine.png)
+
+Delta version history on the Silver table:
+![Delta history](screenshots/delta_history.png)
+
+Scheduled daily job with failure alerting:
+![Job run](screenshots/job_run.png)
+
 ## Author
 Navdeep Singh, Perth WA. github.com/navdeep077
